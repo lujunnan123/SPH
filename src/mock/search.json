@@ -1,0 +1,133 @@
+{
+    "attrsList": [
+        {
+            "attrId": 412,
+            "attrName": "内存",
+            "attrValueList": ["64G","128G","32G"]
+        },
+        {
+            "attrId": 413,
+            "attrName": "运行内存",
+            "attrValueList": ["8G","16G", "32G"]
+        },
+        {
+            "attrId": 414,
+            "attrName": "机身内存",
+            "attrValueList": ["64G","128G","256G","648G","1T"]
+        },
+        {
+            "attrId": 415,
+            "attrName": "手机系统",
+            "attrValueList": ["骁龙845","天机9000","M1","M2","麒麟900" ]
+        },
+        {
+            "attrId": 416,
+            "attrName": "手机品牌",
+            "attrValueList": [ "华为","小米","苹果","菠萝","香蕉" ]
+        },
+        {
+            "attrId": 417,
+            "attrName": "系统1",
+            "attrValueList": ["骁龙845","天机9000","M1","M2","麒麟900" ]
+        },
+        {
+            "attrId": 418,
+            "attrName": "系统2",
+            "attrValueList": ["骁龙845","天机9000","M1","M2","麒麟900" ]
+        }
+    ],
+    "goodsList": [
+        {
+            "defaultImg": "../public/images/phone (1).jpg",
+            "hotScore": 0,
+            "id": 200,
+            "price": 1999,
+            "title": "小米 redmi 6s"
+        },
+        {
+            "defaultImg": "D:/Desktop/Web/Vue/project_SPH/app/images/phone (2).jpg",
+            "hotScore": 0,
+            "id": 201,
+            "price": 2999,
+            "title": "一加 pro"
+        },
+        {
+            "defaultImg": "D:/Desktop/Web/Vue/project_SPH/app/public/images/phone (3).jpg",
+            "hotScore": 0,
+            "id": 202,
+            "price": 6999,
+            "title": "Apple苹果iPhone X 6+128G"
+        },
+        {
+            "defaultImg": "D:/Desktop/Web/Vue/project_SPH/app/images/phone (4).jpg",
+            "hotScore": 0,
+            "id": 203,
+            "price": 7999,
+            "title": "Apple苹果iPhone 12s 16+128G"
+        },
+        {
+            "defaultImg": "D:/Desktop/Web/Vue/project_SPH/app/images/phone (4).jpg",
+            "hotScore": 0,
+            "id": 204,
+            "price": 8999,
+            "title": "Apple苹果iPhone 11 16+1T"
+        },
+        {
+            "defaultImg": "D:/Desktop/Web/Vue/project_SPH/app/images/phone (4).jpg",
+            "hotScore": 0,
+            "id": 205,
+            "price": 6999,
+            "title": "Apple苹果iPhone 8s 8+64G"
+        },
+        {
+            "defaultImg": "D:/Desktop/Web/Vue/project_SPH/app/images/phone (4).jpg",
+            "hotScore": 0,
+            "id": 206,
+            "price": 7999,
+            "title": "Redmi 16+1T"
+        },
+        {
+            "defaultImg": "D:/Desktop/Web/Vue/project_SPH/app/images/phone (4).jpg",
+            "hotScore": 0,
+            "id": 207,
+            "price": 10999,
+            "title": "Apple苹果iPhone 18 (A1699)Apple苹果iPhone 18s 16+256G"
+        },
+        {
+            "defaultImg": "D:/Desktop/Web/Vue/project_SPH/app/images/phone (4).jpg",
+            "hotScore": 0,
+            "id": 208,
+            "price": 4999,
+            "title": "Redmi 2G"
+        },
+        {
+            "defaultImg": "D:/Desktop/Web/Vue/project_SPH/app/images/phone (4).jpg",
+            "hotScore": 0,
+            "id": 209,
+            "price": 5999,
+            "title": "(A1699)Apple苹果iPhone 6s (A1699)Apple苹果iPhone 7s (A1699) 12G"
+        }
+    ],
+    "pageNo": 1,
+    "pageSize": 10,
+    "total": 26,
+    "totalPages": 3,
+    "trademarkList": [
+        {
+            "tid": 1,
+            "tmName": "小米"
+        },
+        {
+            "tid": 2,
+            "tmName": "华为"
+        },
+        {
+            "tid": 3,
+            "tmName": "OPPO"
+        },
+        {
+            "tid": 4,
+            "tmName": "苹果"
+        }
+    ]
+}
